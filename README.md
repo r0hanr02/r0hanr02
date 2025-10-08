@@ -1,17 +1,72 @@
-# 💫 About Me:
-👋 Hello! I’m Rohan Rathod<br>I’m a Full-Stack Engineer with a passion for creating seamless and user-friendly digital experiences. With expertise in HTML, CSS, JavaScript, React, and expanding back-end skills, I enjoy building efficient and scalable web applications. My goal is to continuously learn and grow within the tech industry, collaborating with others to solve complex problems and deliver impactful solutions.<br><br>🔧 Skills & Technologies<br>Front-End: HTML, CSS, JavaScript, React<br>Back-End:  Node.js, Express, MongoDB, SQL<br>Tools & Platforms: Git, GitHub, Docker, AWS<br>🚀 What I’m Working On<br>Currently, I’m focused on improving my full-stack capabilities, especially in  back-end optimization, cloud deployment.<br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/roh.anr28/?utm_source=qr&igsh=MWsxa3YxM3F4MjIzcQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-rathod-b6a2a5284/?originalSubdomain=in) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rathodrohan721?t=uEAecrJNK0YYWwG7k_H6_w&s=08) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=r0hanr02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0hanr02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- 🌌 Animated Intro -->
+![Welcome Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&width=435&lines=Hey+there!+I'm+Rohan+👋;Frontend+Developer+%7C+Creative+Coder;Always+learning+%7C+Building+cool+stuff) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=r0hanr02&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🧠 About Me
+Hi! I’m **Rohan**, a front-end developer who enjoys crafting immersive web experiences.  
+I love solving UI puzzles, designing smooth user interactions, and experimenting with **React**, **Tailwind CSS**, and **Vite**.  
+
+Right now, I’m exploring:
+- 🪄 **AI-integrated web apps**
+- ⚡ **Performance-first UI architecture**
+- 💡 **Intuitive design systems**
+- 🧱 **Backend development with Node.js & MongoDB**
+
+> “Every pixel has a purpose, every line of code tells a story.”
+
+---
+
+### ⚙️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,figma,nodejs,mongodb,firebase,git,github" />
+</p>
+
+---
+
+### 🧩 Featured Creations
+🚀 **[AI Trip Planner](https://github.com/r0hanr02/ai-trip-planner)** – Smart itinerary generator using Gemini AI, Google APIs, and Firebase.  
+🧰 **[Resume Builder](https://github.com/r0hanr02/resume-builder)** – Create stylish resumes with theme support (React + Tailwind).  
+💬 **[Feedback Widget](https://github.com/r0hanr02/feedback-widget)** – Capture user insights directly from your app.  
+🔐 **[Password Generator](https://github.com/r0hanr02/password-generator)** – Lightweight tool using React hooks.  
+
+> 🧠 Dive into more of my projects [here](https://github.com/r0hanr02?tab=repositories)
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r0hanr02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hanr02&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=r0hanr02&theme=tokyonight&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💫 Contribution Galaxy
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0hanr02&bg_color=0d1117&color=00E0FF&line=00C2CB&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+<p align="center">
+  <a href="[https://yourportfolio.link](https://r0hanrportfolio.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https[://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/rohanrathod01/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://twitter.com/yourtwitter](https://x.com/rathodrohan721)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:rathodrohan721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="animated octocat" width="500" /> </p>
+
+---
+
+✨ _"Creativity fuels my code, and curiosity shapes my craft."_
+
