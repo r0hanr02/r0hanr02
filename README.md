@@ -36,14 +36,11 @@ Right now, I’m exploring:
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0hanr02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hanr02&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+<div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hanr02&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r0hanr02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=r0hanr02&theme=tokyonight&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -56,11 +53,20 @@ Right now, I’m exploring:
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="[https://yourportfolio.link](https://r0hanrportfolio.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https[://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/rohanrathod01/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://twitter.com/yourtwitter](https://x.com/rathodrohan721)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:rathodrohan721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://r0hanrportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohanrathod01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/rathodrohan721">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:rathodrohan721@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
