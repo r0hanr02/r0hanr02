@@ -26,10 +26,11 @@ Right now, I’m exploring:
 ---
 
 ### 🧩 Featured Creations
-🚀 **[AI Trip Planner](https://github.com/r0hanr02/AITripPlanner)** – Smart itinerary generator using Gemini AI, Google APIs, and Firebase.
-🎬 **[MovieRender](https://github.com/r0hanr02/MovieRender)** – Interactive movie catalogue & visual renderer — browse, filter and preview movies with a polished React UI (works great with movie APIs like TMDB).
-🛠️ **[CoderIDE](https://github.com/r0hanr02/coderidepro)** – Lightweight in-browser code editor and playground for building, testing, and sharing front-end snippets.
-🧰 **[Resume Builder](https://github.com/r0hanr02/ResumeBuilder)** – Create stylish resumes with theme support (React + Tailwind).  
+
+- 🚀 **[AI Trip Planner](https://github.com/r0hanr02/AITripPlanner)** – Smart itinerary generator using Gemini AI, Google APIs, and Firebase.  
+- 🎬 **[MovieRender](https://github.com/r0hanr02/MovieRender)** – Recommends movies tailored to a user's mood and preferences — tell it how you feel and it suggests the perfect film.  
+- 🛠️ **[CoderIDE](https://github.com/r0hanr02/coderidepro)** – Lightweight in-browser code editor and playground for building, testing, and sharing front-end snippets.  
+- 🧰 **[Resume Builder](https://github.com/r0hanr02/ResumeBuilder)** – Create stylish resumes with theme support (React + Tailwind).  
 
 
 
